@@ -1,12 +1,6 @@
-## Hi there 👋
+## Baymax
 
-<!--
+**Baymax - Data Engineering Enthusiasts from Gyeongbuk Software High School**
 
-**Here are some ideas to get you started:**
+Welcome to Baymax! We are a passionate team of students from Gyeongbuk Software High School, deeply interested in the fields of data analysis and data engineering. Our mission is to explore and master the world of data, applying the latest technologies and techniques to solve complex challenges. Through collaboration and continuous learning, we aim to make impactful contributions to the tech community. Join us on our journey to innovate and excel in the realm of data engineering.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
